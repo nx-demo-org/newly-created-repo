@@ -84,6 +84,5 @@
     "@nx/angular:component": { "style": "css" }
   },
   "analytics": false,
-  "nxCloudId": "6a234206deaba0415c5ea29a",
-  "nxCloudUrl": "https://staging.nx.app"
+  "nxCloudId": "6a2336d76a4fa56a520b6c6c"
 }
